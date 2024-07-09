@@ -6,6 +6,19 @@
   font-style: normal;
 }
 
+/* Shared style */
+
+.dark1 {color: #0D1321;}
+
 /* Nav styles */
 nav 
-{display:flex}
+{display:flex;align-self: center;justify-content: space-between;margin: 100px;margin-top: 20px;}
+
+.nav-tittle{font-weight: 800;
+font-size: 20px ;}
+
+nav ul {display:flex}
+
+nav ul li{list-style: none;}
+nav li a {text-decoration: none;
+font-size: 20px;}
