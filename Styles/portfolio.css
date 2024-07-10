@@ -10,6 +10,14 @@
 
 .dark1 {color: #0D1321;}
 
+.page-heading { font-size: 32px;font-weight: 800;margin-top: 200px;text-align: center;}
+
+.para-text { font-size: 16px;font-weight: 400;margin-top 50px ; text-align: center;}
+.para-heading { font-size: 24px; font-weight: bold;}
+.para1-text {font-size: 16px;font-weight: 400;text-align: left;}
+
+.section.style {background-color: #0D1321 ;}
+
 /* Nav styles */
 nav 
 {display:flex;align-self: center;justify-content: space-between;margin: 100px;margin-top: 20px;}
@@ -23,6 +31,7 @@ nav ul li{list-style: none;}
 nav li a {text-decoration: none;
 font-size: 20px;}
 
+
 /* Banner style */
 
 .banner { display: flexbox;background-image: url('../assets/Hero-bg.png'); background-position: 100%;}
@@ -34,4 +43,17 @@ font-size: 20px;}
      white; border-radius: 10px; padding: 24px 21px 24px 21px
      ;text-align: center; margin: 10px 10px 20px 10px;}
      
+    /* para style */
+    .para-1 {display: flex;justify-content: space-between; background-color: bisque; max-width: 946px;border-radius: 10px;margin: 0 auto;}
+
+
+    /* image style */
+    .layer-1 {border-image: 20px ;}
+
+     /* main style */
+     main{max-width: 1140px; margin: 0 auto;}
     
+     /* section style */
+
+     .web-dev{ max-width: 1140px; margin: 0 auto; background-color: cadetblue;}
+     
