@@ -22,3 +22,16 @@ nav ul {display:flex}
 nav ul li{list-style: none;}
 nav li a {text-decoration: none;
 font-size: 20px;}
+
+/* Banner style */
+
+.banner { display: flexbox;background-image: url('../assets/Hero-bg.png'); background-position: 100%;}
+
+.banner-profile-picture {width: 173px; margin: 2% 45% 1% 45%;}
+.banner-heading {font-size: 48px ; font-weight: 800; text-align: center;}
+.banner-description {font-size: 16px; font-weight: 400;text-align: center;}
+.contact-button {font-size: 20px; font-weight: 500;background-color: black; color:
+     white; border-radius: 10px; padding: 24px 21px 24px 21px
+     ;text-align: center; margin: 10px 10px 20px 10px;}
+     
+    
