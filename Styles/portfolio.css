@@ -13,7 +13,6 @@
 .page-heading {
   font-size: 32px;
   font-weight: 800;
-  margin-top: 200px;
   text-align: center;
 }
 
@@ -27,13 +26,13 @@
   font-size: 16px;
   font-weight: 400;
   text-align: justify;
-  margin: 32px;
+  margin: 30px;
 }
 
 .wd-para-text {font-size: 16px;
 font-weight: 400;
 text-align: justify;
-margin: auto 110px ;}
+margin: auto 30px ;}
 
 .learn-more {
   margin: 32px;
@@ -137,8 +136,9 @@ main {
 /* section style */
 
 .web-dev {
-  max-width: 1140px;
-  margin: 80 97 80 97 ;
+ border: radius 10px; ;
+  padding: 80px 97px;
+  margin-top: 100px;
   
   background-color: #f7f5f5;
 }
