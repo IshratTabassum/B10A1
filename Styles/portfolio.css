@@ -213,3 +213,4 @@ main section {
 .color {
   color: #ffffff;
 }
+.fbg {display: flex; justify-content: space-between;background-color: rgb(240, 239, 236);padding: 32px 150px; background-position: 100%;}
